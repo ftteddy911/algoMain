@@ -1,0 +1,34 @@
+// this program all about ML and AI programming languages used is python and java and thare pkg's
+rules 1. you can use any type of git hub help and StackOverFlowe
+rules 2. write comment with code 
+rules 3. only write code in java and python or use both
+
+
+making user input counting algo(algorithm) systam and use as make al and ml robot 
+
+
+(more think to use 1. use string method to make more smart 2. make more secure to acsse to anyone beside user)
+
+first 1 month
+
+1. make scnner class                                                          ////DONE////
+2. make without userinput naver ending loops (while or for)                   ////DONE//// (done with while loop)
+3. make user interaction if and else statement                                ////DONE////
+4. make counting if and else statement                                        ////DONE////
+5. make every deferance variable path couting and user variable               ////DONE////
+
+(this all things done with in half month now working on second and third month)
+
+
+to do ting's
+6. make system that take any type of user input and work with it 
+7. take user counting data and make thare logfile base on month 
+8. take user counting data logfile and analyst that data using ML and AI
+9. make multi user system and store every user data 
+{not much to do try that} try to make android app and make basic system
+10. make more smarter system with more user batter system
+11. make system to take any type of user input and correct tham to right ting 
+{not much to do try that} work with API and all 
+{not much to do try that} make more smart android app
+12. make user login and singup or logout system
+ 
